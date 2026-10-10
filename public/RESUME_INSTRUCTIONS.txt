@@ -1,0 +1,7 @@
+HOW TO ADD YOUR RESUME:
+Save your actual resume PDF directly into this `public/` directory with the filename:
+`resume.pdf`
+
+Path: `public/resume.pdf`
+
+Once placed here, the embedded PDF viewer in the website will automatically load and display your real resume, and the 'Download Resume' and 'Open Resume in New Tab' buttons will instantly open it!
