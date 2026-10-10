@@ -3,10 +3,6 @@
   "version": "1.0.0",
   "description": "Personal Portfolio & COA Lab Suite for Mimansha Bhatnagar",
   "main": "index.html",
-  "scripts": {
-    "start": "npx serve .",
-    "build": "echo 'Static build complete'"
-  },
   "keywords": [
     "portfolio",
     "coa-lab",
