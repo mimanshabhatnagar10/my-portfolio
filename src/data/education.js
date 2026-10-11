@@ -41,11 +41,11 @@ export const education = [
     major: "Science Stream (Non-Medical / Computer Science)",
     location: "Kaithal, Haryana",
     year: "Session: 2024–2025",
-    gradeLabel: "90% Aggregate",
-    cgpa: "90%",
-    description: "Achieved 90% in Class 12 Board Examination with a strong foundation in Mathematics, Science, and analytical problem-solving.",
+    gradeLabel: "88% Aggregate",
+    cgpa: "88%",
+    description: "Achieved 88% in Class 12 Board Examination with a strong foundation in Mathematics, Science, and analytical problem-solving.",
     highlights: [
-      "Score: 90% Overall Aggregate in 12th Board Examinations",
+      "Score: 88% Overall Aggregate in 12th Board Examinations",
       "Strong analytical foundation in Physics, Chemistry, and Advanced Mathematics",
       "Demonstrated academic discipline and aptitude for computational logic"
     ]
