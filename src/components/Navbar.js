@@ -30,6 +30,7 @@ export function renderNavbar() {
           <li><a href="#about" class="nav-link">About</a></li>
           <li><a href="#projects" class="nav-link">Projects</a></li>
           <li><a href="#coa-lab" class="nav-link">COA Lab</a></li>
+          <li><a href="#coa-case-study" class="nav-link">COA Case Study</a></li>
           <li><a href="#skills" class="nav-link">Skills</a></li>
           <li><a href="#journey" class="nav-link">Journey</a></li>
           <li><a href="#gallery" class="nav-link">Certificates & Gallery</a></li>
@@ -60,6 +61,7 @@ export function renderNavbar() {
         <a href="#about" class="mobile-nav-link">About & Vision</a>
         <a href="#projects" class="mobile-nav-link">Featured Projects</a>
         <a href="#coa-lab" class="mobile-nav-link">COA Lab</a>
+        <a href="#coa-case-study" class="mobile-nav-link">COA Case Study</a>
         <a href="#skills" class="mobile-nav-link">Technical Skills</a>
         <a href="#journey" class="mobile-nav-link">Education & Board Journey</a>
         <a href="#gallery" class="mobile-nav-link">Certificates & Gallery</a>

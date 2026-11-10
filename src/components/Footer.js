@@ -25,6 +25,7 @@ export function renderFooter() {
             <li><a href="#about" class="footer-link">About</a></li>
             <li><a href="#projects" class="footer-link">Projects</a></li>
             <li><a href="#coa-lab" class="footer-link">COA Lab</a></li>
+            <li><a href="#coa-case-study" class="footer-link">COA Case Study</a></li>
             <li><a href="#skills" class="footer-link">Skills</a></li>
             <li><a href="#journey" class="footer-link">Journey</a></li>
             <li><a href="#gallery" class="footer-link">Certificates & Gallery</a></li>

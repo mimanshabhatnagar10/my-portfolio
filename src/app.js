@@ -8,6 +8,7 @@ import { renderHero } from './components/Hero.js';
 import { renderAbout } from './components/About.js';
 import { renderProjects, initProjects } from './components/Projects.js';
 import { renderCoaLab, initCoaLab } from './components/CoaLab.js';
+import { renderCoaCaseStudy, initCoaCaseStudy } from './components/CoaCaseStudy.js';
 import { renderSkills } from './components/Skills.js';
 import { renderJourney } from './components/Journey.js';
 import { renderGallery, initGallery } from './components/Gallery.js';
@@ -29,6 +30,7 @@ function bootstrapApp() {
       ${renderAbout()}
       ${renderProjects()}
       ${renderCoaLab()}
+      ${renderCoaCaseStudy()}
       ${renderSkills()}
       ${renderJourney()}
       ${renderGallery()}
@@ -43,6 +45,7 @@ function bootstrapApp() {
   initNavbar();
   initProjects();
   initCoaLab();
+  initCoaCaseStudy();
   initGallery();
   initResumeViewer();
   initContact();
